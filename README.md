@@ -12,4 +12,4 @@ batch size of 60k:
 batch size of a 100:
 ![image](https://user-images.githubusercontent.com/59236770/173581367-f25a4eb1-c202-4e7a-b0ab-ab376a3c8221.png)
 
-Feel free to use this for anything.
+Feel free to use this for anything and may the odds be in your favour.
